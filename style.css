@@ -1,0 +1,33 @@
+p{
+    color: brown;
+    font-family: cursive;
+    font-weight: bold;   
+}
+#par{
+    color: green;
+}
+#name{
+    color: blue;
+}
+.About{
+    background-color:antiquewhite
+}
+#li{
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    height: 60%;
+    width: 60%;
+    border: 20px;
+    border-color: aqua;
+    border-radius: 10%;
+    
+}
+#img{
+    height: 65%;
+    width: 65%;
+}
+*{
+    border: 50px color rebeccapurple;
+}
